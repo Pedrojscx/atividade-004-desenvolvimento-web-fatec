@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-label="Atividade 4, cabeçalho compartilhado">
+<title>Atividade 4, cabeçalho compartilhado</title>
+<defs>
+<clipPath id="b-clip"><rect width="1280" height="400" rx="48" ry="48"/></clipPath>
+<linearGradient id="b-bg" gradientUnits="userSpaceOnUse" x1="220" y1="-220" x2="1060" y2="620"><stop offset="0" stop-color="#8a1426"/><stop offset=".55" stop-color="#5e0d1a"/><stop offset="1" stop-color="#3a0710"/></linearGradient>
+<radialGradient id="b-glow" cx="0.33" cy="0.5" r="0.6"><stop offset="0" stop-color="#c0263d" stop-opacity=".55"/><stop offset=".7" stop-color="#c0263d" stop-opacity="0"/></radialGradient>
+<filter id="b-shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#1a0207" flood-opacity=".5"/><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#1a0207" flood-opacity=".3"/></filter>
+<g id="page">
+  <rect width="150" height="200" rx="10" fill="#fbf7f0"/>
+  <rect x="14" y="14" width="122" height="40" rx="6" fill="#a6192e"/>
+  <circle cx="34" cy="34" r="9" fill="#fbf7f0" opacity=".9"/>
+  <rect x="50" y="26" width="48" height="6" rx="3" fill="#fbf7f0" opacity=".9"/>
+  <rect x="50" y="38" width="30" height="5" rx="2.5" fill="#fbf7f0" opacity=".6"/>
+  <rect x="104" y="28" width="22" height="12" rx="6" fill="#d4af5a"/>
+  <rect x="14" y="72" width="110" height="7" rx="3.5" fill="#cfc6b8"/>
+  <rect x="14" y="88" width="122" height="7" rx="3.5" fill="#ddd5c8"/>
+  <rect x="14" y="104" width="96" height="7" rx="3.5" fill="#ddd5c8"/>
+  <rect x="14" y="120" width="116" height="7" rx="3.5" fill="#ddd5c8"/>
+  <rect x="14" y="136" width="80" height="7" rx="3.5" fill="#ddd5c8"/>
+  <rect x="14" y="160" width="104" height="7" rx="3.5" fill="#e6dfd4"/>
+  <rect x="14" y="176" width="70" height="7" rx="3.5" fill="#e6dfd4"/>
+</g>
+</defs>
+<g clip-path="url(#b-clip)">
+<rect width="1280" height="400" fill="url(#b-bg)"/>
+<rect width="1280" height="400" fill="url(#b-glow)"/>
+<rect x="24" y="24" width="1232" height="352" rx="32" fill="none" stroke="#d4af5a" stroke-opacity=".55" stroke-width="2"/>
+<g filter="url(#b-shadow)">
+  <use href="#page" transform="translate(110 118) rotate(-9 75 100)" opacity=".75"/>
+  <use href="#page" transform="translate(190 96) rotate(-3 75 100)" opacity=".88"/>
+  <use href="#page" transform="translate(270 104) rotate(5 75 100)"/>
+</g>
+<path d="M300 92 C 330 60, 380 56, 410 78" fill="none" stroke="#d4af5a" stroke-width="2.5" stroke-dasharray="6 7" stroke-linecap="round"/>
+<path d="M404 70 L412 79 L400 82" fill="none" stroke="#d4af5a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="560" y="205" font-family="Georgia, 'Times New Roman', serif" font-size="80" font-weight="700" letter-spacing="6" fill="#fbf7f0">ATIVIDADE 4</text>
+<rect x="564" y="232" width="120" height="3" rx="1.5" fill="#d4af5a"/>
+<text x="562" y="282" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#f1e4d0">Cabeçalho compartilhado entre todas as páginas.</text>
+<text x="563" y="322" font-family="'Helvetica Neue', Arial, sans-serif" font-size="17" letter-spacing="3" fill="#d4af5a">DESENVOLVIMENTO WEB I · FATEC JACAREÍ</text>
+</g>
+</svg>
